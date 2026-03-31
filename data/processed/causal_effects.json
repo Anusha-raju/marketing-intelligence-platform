@@ -1,0 +1,8 @@
+{
+  "naive_control_rate": 0.0696550340954673,
+  "naive_treatment_rate": 0.07174119118210605,
+  "naive_difference": 0.002086157086638743,
+  "iptw_treatment_rate": 0.07103358789926546,
+  "iptw_control_rate": 0.07025957236221719,
+  "iptw_ate": 0.0007740155370482699
+}

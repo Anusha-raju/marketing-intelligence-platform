@@ -1,0 +1,18 @@
+{
+  "channels": [
+    "Paid Search",
+    "Paid Social",
+    "Email",
+    "Affiliate",
+    "Display",
+    "Organic Search",
+    "Direct"
+  ],
+  "campaign_types": [
+    "Prospecting",
+    "Retargeting",
+    "CRM",
+    "Brand",
+    "Promo"
+  ]
+}

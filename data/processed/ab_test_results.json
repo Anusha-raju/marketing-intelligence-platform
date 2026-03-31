@@ -1,0 +1,21 @@
+{
+  "summary": [
+    {
+      "variant": "control",
+      "customers": 49860,
+      "conversions": 3473,
+      "avg_revenue": 161.02340713999197,
+      "retention_rate": 0.0
+    },
+    {
+      "variant": "treatment",
+      "customers": 49581,
+      "conversions": 3557,
+      "avg_revenue": 160.95369274520482,
+      "retention_rate": 0.0
+    }
+  ],
+  "z_stat": -1.2832876936904116,
+  "p_value": 0.19939130252682813,
+  "absolute_conversion_lift": 0.002086157086638743
+}
