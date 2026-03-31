@@ -263,20 +263,6 @@ This project demonstrates how ML and statistical analysis can support decisions 
 
 ---
 
-## What This Project Demonstrates
-
-This project was intentionally designed to reflect real-world responsibilities in Marketing Science / Applied ML roles, including:
-
-- customer behavior analysis
-- statistical modeling
-- experiment design and measurement
-- causal inference
-- production-style model deployment
-- scalable analytical pipeline design
-- translating technical findings into business outcomes
-
----
-
 ## Future Improvements
 
 Potential production upgrades include:
